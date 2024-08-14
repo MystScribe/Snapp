@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'dana';
+    src: url(../webfont/dana/dana-regular.woff2);
+}
+
+@font-face {
+    font-family: 'danab';
+    src: url(../webfont/dana/dana-bold.woff2);
+}
+
+@font-face {
+    font-family: ISans;
+    src: url(../webfont/A-Iranian-Sans/Iranian\ Sans.ttf);
+}
